@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Plant
+comment1.params=location
+comment1.target=Plant(Location)
+comment2.params=
+comment2.target=void\ setDead()
+comment2.text=\r\n\ Indicate\ that\ a\ plant\ is\ no\ longer\ alive\r\n\ A\ clear\ tile\ is\ different\ form\ a\ (free)\ plant\ tile\ -\ as\ plants\ can\ be\ eaten\ \r\n
+comment3.params=
+comment3.target=int\ getFoodValue()
+comment4.params=
+comment4.target=Location\ getLocation()
+comment5.params=
+comment5.target=boolean\ isAlive()
+comment6.params=
+comment6.target=javafx.scene.paint.Color\ getColor()
+numComments=7

@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Gender
+comment0.text=\r\n\ This\ simple\ enum\ is\ meant\ to\ assign\ genders\ Male\ &\ Female\ to\ animals\r\n\ This\ would\ serve\ a\ greater\ purpose\ when\ it\ comes\ to\ breeding,\ as\ a\ Male\ &\ Female\ parter\ is\ required\r\n\ The\ gene\ passing\ would\ be\ done\ as\ first\ half\ from\ the\ Male\ (Father)\ &\ second\ half\ from\ the\ Female\ (Mother)\r\n
+numComments=1

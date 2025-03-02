@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Breeder
+comment0.text=\r\n\ A\ class\ responsible\ for\ handling\ the\ breeding\ logic\ among\ the\ animals\r\n\ It\ incooporates\ methods\ for\ checking\ partners\ and\ generating\ offspring\ \r\n\r\n
+comment1.params=mother\ father\ speciesM\ speciesF
+comment1.target=Animal\ breed(Animal,\ Animal,\ java.lang.Class,\ java.lang.Class)
+comment1.text=\r\n\ Breeds\ two\ animals\ if\ they\ are\ of\ the\ same\ species\ and\ opposite\ genders\ \r\n
+comment2.params=geneM\ geneF
+comment2.target=java.lang.String\ crossover(java.lang.String,\ java.lang.String)
+comment3.params=gene
+comment3.target=java.lang.String\ mutate(java.lang.String)
+comment3.text=\r\n\ Mutates\ a\ gene\ by\ incrementing\ digits\ (0-9)\ in\ a\ circular\ manner.\r\n
+comment4.params=animal
+comment4.target=boolean\ hasOppositeGenderMate(Animal)
+comment4.text=\r\n\ Checks\ if\ an\ animal\ has\ an\ opposite-gender\ mate\ nearby\r\n\ If\ true,\ then\ it\ would\ continue\r\n
+numComments=5

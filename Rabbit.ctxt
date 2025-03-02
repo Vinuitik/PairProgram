@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Rabbit
+comment0.text=\r\n\ Rabbit\ -\ a\ prey\ class\ animal\ \r\n
+comment1.params=location
+comment1.target=Rabbit(Location)
+comment2.params=mother\ gene
+comment2.target=Rabbit(Rabbit,\ java.lang.String)
+comment3.params=newRabbits
+comment3.target=void\ giveBirth(java.util.List)
+comment4.params=
+comment4.target=void\ spreadDisease()
+numComments=5

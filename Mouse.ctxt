@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Mouse
+comment0.text=\r\n\ Mouse\ -\ a\ prey\ class\ animal\ \r\n
+comment1.params=location
+comment1.target=Mouse(Location)
+comment2.params=mother\ gene
+comment2.target=Mouse(Mouse,\ java.lang.String)
+comment3.params=newMice
+comment3.target=void\ giveBirth(java.util.List)
+comment4.params=
+comment4.target=void\ spreadDisease()
+numComments=5

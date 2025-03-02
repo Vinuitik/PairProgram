@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Predator
+comment0.text=\r\n\ A\ simple\ model\ of\ a\ fox.\r\n\ Foxes\ age,\ move,\ eat\ rabbits,\ and\ die.\r\n\ \r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\r\n\ @version\ 2025.02.10\r\n
+comment1.params=mother\ gene
+comment1.target=Predator(Predator,\ java.lang.String)
+comment2.params=location\ col
+comment2.target=Predator(Location,\ javafx.scene.paint.Color)
+comment2.text=\r\n\ Create\ a\ fox.\ A\ fox\ can\ be\ created\ as\ a\ new\ born\ (age\ zero\r\n\ and\ not\ hungry)\ or\ with\ a\ random\ age\ and\ food\ level.\r\n\ \r\n\ @param\ randomAge\ If\ true,\ the\ fox\ will\ have\ random\ age\ and\ hunger\ level.\r\n\ @param\ field\ The\ field\ currently\ occupied.\r\n\ @param\ location\ The\ location\ within\ the\ field.\r\n
+comment3.params=
+comment3.target=Location\ findFood()
+comment3.text=\r\n\ Look\ for\ rabbits\ adjacent\ to\ the\ current\ location.\r\n\ Only\ the\ first\ live\ rabbit\ is\ eaten.\r\n\ @return\ Where\ food\ was\ found,\ or\ null\ if\ it\ wasn't.\r\n
+numComments=4

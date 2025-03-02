@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Wolf
+comment0.text=\r\n\ Wolf\ -\ a\ predator\ class\ animal\ \r\n
+comment1.params=location
+comment1.target=Wolf(Location)
+comment2.params=mother\ gene
+comment2.target=Wolf(Wolf,\ java.lang.String)
+comment3.params=newWolves
+comment3.target=void\ giveBirth(java.util.List)
+comment4.params=
+comment4.target=void\ spreadDisease()
+numComments=5
