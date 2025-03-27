@@ -9,7 +9,7 @@ import java.util.Random;
  * @version 2025.02.10
  */
 
-public abstract class Animal {
+public abstract class Animal { 
     
     private boolean alive;
     private Location location;
